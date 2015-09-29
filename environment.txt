@@ -1,0 +1,3 @@
+  environment:
+    http_proxy: REPLACE
+    https_proxy: REPLACE

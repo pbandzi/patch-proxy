@@ -1,6 +1,6 @@
 #!/bin/bash
 # Must be running from foreman/ci directory in genesis cloned repo
-
+# thios sflsdhldskjlksd
 # must use escape char '\' in proxy address before'/' 
 # e.g. http:\/\/proxy.example.com:123
 PROXY='http:\/\/proxy.example.com:80'
